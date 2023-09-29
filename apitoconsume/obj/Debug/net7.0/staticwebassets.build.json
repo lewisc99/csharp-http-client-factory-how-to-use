@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rFNViqZu91eVqNDRRZEoivQR2t6cgNXI80ZNsF3+dVI=",
+  "Source": "httpClientFactory",
+  "BasePath": "_content/httpClientFactory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
